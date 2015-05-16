@@ -14,10 +14,7 @@ ScrollViewContainer,仿照手机淘宝商品详情“继续拖动,查看图文�
 
 ###Demo
 
-![NumberProgressBar](http://ww3.sinaimg.cn/mw690/610dc034jw1efyrd8n7i7g20cz02mq5f.gif)
-
-
-[Download Demo](https://github.com/daimajia/NumberProgressBar/releases/download/v1.0/NumberProgressBar-Demo-v1.0.apk)
+![ScrollViewContainer](http://img.blog.csdn.net/20140818121207234?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemhvbmdrZWppbmd3YW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
 ###Usage
